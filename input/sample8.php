@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
@@ -12,13 +12,13 @@
     <input type="submit" value="send">
   </form>
 </body>
-</html>
+</html> -->
 
 
 <?php
 
-if (!$_POST["num1"] || !$_POST["num2"]) {
-    echo "null";
-} else {
-    echo $_POST["num1"] + $_POST["num2"];
-}
+// if (!$_POST["num1"] || !$_POST["num2"]) {
+//     echo "null";
+// } else {
+//     echo $_POST["num1"] + $_POST["num2"];
+// }

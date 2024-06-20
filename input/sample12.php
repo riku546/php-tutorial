@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -21,18 +21,18 @@
     </form>
 </body>
 
-</html>
+</html> -->
 
 <?php
-function foo($arg)
-{
-    if ($arg === "enoki") {
-        echo "hello\n", $arg;
+// function foo($arg)
+// {
+//     if ($arg === "enoki") {
+//         echo "hello\n", $arg;
 
-    } else {
-        echo "";
-    }
+//     } else {
+//         echo "";
+//     }
 
-}
-$arg = $_POST["text"];
-foo($arg);
+// }
+// $arg = $_POST["text"];
+// foo($arg);

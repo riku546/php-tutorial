@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
@@ -11,19 +11,19 @@
   <input type="submit" value="SEND">
 </form>
 </body>
-</html>
+</html> -->
 
 
 <?php
-$color = $_POST["num"];
+// $color = $_POST["num"];
 
-switch ($color) {
-    case 1:
+// switch ($color) {
+//     case 1:
 
-        echo "1";
-        break;
+//         echo "1";
+//         break;
 
-    default:
-        echo "other";
-        break;
-}
+//     default:
+//         echo "other";
+//         break;
+// }

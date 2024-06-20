@@ -1,6 +1,6 @@
 <?php
-$book = new stdClass();
-$book->name = "php";
-$book->price = 1000;
+// $book = new stdClass();
+// $book->name = "php";
+// $book->price = 1000;
 
-echo $book->name;
+// echo $book->name;

@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 echo <<<EOT
 fffffffffff
 fffggg
@@ -10,3 +10,4 @@ echo <<<'EOT'
 fafaljfajf
 jfafjajl
 EOT;
+?> -->

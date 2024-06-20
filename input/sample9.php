@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
@@ -11,14 +11,14 @@
   <input type="submit" value="SEND">
 </form>
 </body>
-</html>
+</html> -->
 
 <?php
-$gender = $_POST["gender"];
-if ($gender === "man") {
-    echo "man";
-} elseif ($gender === "woman") {
-    echo "woman";
-} else {
-    echo "other";
-}
+// $gender = $_POST["gender"];
+// if ($gender === "man") {
+//     echo "man";
+// } elseif ($gender === "woman") {
+//     echo "woman";
+// } else {
+//     echo "other";
+// }

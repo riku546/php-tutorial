@@ -1,13 +1,13 @@
 <?php
 
-function sum(...$arr)
-{
-    $total = 0;
-    foreach ($arr as $num) {
-        $total += $num;
-    }
+// function sum(...$arr)
+// {
+//     $total = 0;
+//     foreach ($arr as $num) {
+//         $total += $num;
+//     }
     
-    return $total;
-}
+//     return $total;
+// }
 
-echo sum(1 ,4, 6, 6);
+// echo sum(1 ,4, 6, 6);

@@ -1,5 +1,5 @@
 <?php
-$price = 20;
-$result = 100 + $price;
+// $price = 20;
+// $result = 100 + $price;
 
-echo $result;
+// echo $result;
