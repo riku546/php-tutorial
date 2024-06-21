@@ -1,8 +1,8 @@
 <?php
-class Item{
-    public static  int $tax  = 8;
+// class Item{
+//     public static  int $tax  = 8;
 
-    public static function getPrice(){
+//     public static function getPrice(){
         
-    }
-}
+//     }
+// }
