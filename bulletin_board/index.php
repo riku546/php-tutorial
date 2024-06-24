@@ -41,6 +41,11 @@
   ?>
   
   <h1>投稿</h1>
+  <?php
+  if(true):
+
+  endif;
+  ?>
   <form action=""  method="post" style="display: flex; flex-direction:column;">
     <label for="">
       name: <input type="text" name="name">
