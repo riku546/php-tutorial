@@ -51,7 +51,7 @@ class PartTimeEmployee implements calculateMonthlySalary
     public function calculateSalary(Employee $employee)
     {
 
-        return $employee->getSalary() / 2;
+        return $employee->getSalary() * 0.5;
 
     }
 }
